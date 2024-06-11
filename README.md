@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arpitha r
+- 👋 Hi, I’m Arpitha R
 - 👀 I’m interested in orating.
 - 🌱 I’m currently learning electroniocs and communication.
 - 💞️ I’m looking to collaborate on AWS
